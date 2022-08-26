@@ -4,7 +4,7 @@ ENV HOME /home/notes
 
 ENV PORT 8888
 
-WORKDIR /project
+WORKDIR /home
 
 COPY ./notes /home/notes
 
